@@ -1,0 +1,22 @@
+{
+  "name": "@pomegranate/test-utils",
+  "version": "0.0.0",
+  "description": "Provides test utilities, mocks and stubs for Pomegranate structural modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Pomegranate",
+    "Pomegranate-structural"
+  ],
+  "author": "Jim Bulkowski <jim.b@paperelectron.com> (http://paperelectron.com)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "debug": "^3.0.1",
+    "lodash": "^4.17.4",
+    "magnum-di": "^2.2.3",
+    "mockery": "^2.1.0"
+  }
+}
