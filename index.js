@@ -12,6 +12,7 @@
  * @module index
  */
 
+
 exports.mockFrameworkInjector = require('./lib/mockFrameworkInjector')
 exports.buildPkgJson = require('./lib/buildPkgJson')
 exports.findMockDir = require('./lib/findMockDir')
