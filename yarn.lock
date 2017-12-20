@@ -2,18 +2,18 @@
 # yarn lockfile v1
 
 
-"@pomegranate/framework-logger@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@pomegranate/framework-logger/-/framework-logger-0.0.1.tgz#58ad3af05ebbb19da5973bcb13493bcd08747263"
+"@pomegranate/framework-logger@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@pomegranate/framework-logger/-/framework-logger-0.1.0.tgz#fd5043a330210793735956f44812e906b6aae05f"
   dependencies:
     chalk "^2.3.0"
     lodash "^4.17.4"
 
-"@pomegranate/framework-utils@0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@pomegranate/framework-utils/-/framework-utils-0.1.0.tgz#90c2ad949975fa6fcd4d3e1d1e6e991c9763a9df"
+"@pomegranate/framework-utils@0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@pomegranate/framework-utils/-/framework-utils-0.2.0.tgz#d0ba097deec88beb12dc74912d36c8f2aa7c6313"
   dependencies:
-    "@pomegranate/framework-logger" "^0.0.1"
+    "@pomegranate/framework-logger" "0.1.0"
     bluebird "^3.5.0"
     chalk "^2.1.0"
     debug "^3.0.1"
