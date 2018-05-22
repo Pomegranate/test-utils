@@ -1,6 +1,6 @@
 {
   "name": "@pomegranate/test-utils",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Provides test utilities, mocks and stubs for Pomegranate structural modules.",
   "main": "index.js",
   "scripts": {
